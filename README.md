@@ -25,4 +25,6 @@ Vi har arbejdet med at lave en interface i OpenSCAD for at gøre det nemmere at 
 
 ## 22-9-2023 Bil projekt
 I dag er vi startet med et nyt projekt hvor vi har tænkt os at lave en bil som vi forhåbenligt kan få til at blive fjernstyret. Vi startede med at lave en hurtig skitse af hvordan bilen's lag skal se ud:
+![269887508-a318266c-124b-441e-af3f-fac806f4c655](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/ec067bcf-3930-45b1-aea0-524224d7ddf7)
+
 Derefter lavede et nyt repository der indeholder koden til vores NodeMCU samt koden til OpenSCAD: https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
