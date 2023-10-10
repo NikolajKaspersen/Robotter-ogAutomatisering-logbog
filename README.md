@@ -1,9 +1,21 @@
 # Robotter-ogAutomatisering-logbog
-## 27-8-2023 (Trafik lys projekt)
-I dag fik vi arbejdet videre på kodningen af vores projekt. Vi har brugt Enums samt switch case til at gøre trafik state nemmere at håndtere. Vi har lavet et sæt af fungerende trafiklys, den første loop fungerer som det skal, men når den skal gå igennem loopet igen lyser den i den forkerte ordre.
+## 22-8-2023
+Startede ud med introduktion til brug a Visual Studio Code(VSC) når det kommer til at programmere de Micro-Processore(MP) der blev givet i klassen. 
+I VSC bruges platformio, en IDE der giver adgang til den infrastruktur der ligger på MP'en, så dens Pins og Porte kan blive kaldt direkte i Koden. 
+Fik lavet et "MyFirstBlink" program, hvor det var muligt at få den indbyggede diode på MP'en til at blinke i det interval, der er skrevet i Koden.
+Fik en ny MP med to indbygget Dioder, hvor opgaven til næste gang, var at få dem til at blinke på skift og at læse op på C++ klasser.
+
+## 25-8-2023
+Fik gennemgået opgaven fra Dag 1, hvor det var muligt at få begge Dioder til at blinke på skift og fik understreget at funktionen 'delay()' ikke skal bruges i fremtiden.
+![273395411-de14a41b-4608-4867-aae2-3b4bdd9d82aa](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/6608d27e-1647-4152-9bd8-a723e4716245)
+![273395441-d54939ce-005c-443e-8f60-e0a2e93bed2e](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/80b1bd57-a6b4-4774-997e-70f42fefbcea)
+Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som vi skal arbejde på til næste lektion, og forsøge at kode ind på vores MCU. 
+![273395539-4cd46835-9cc6-47fd-b52a-2e8a2eb95633](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/08c0334f-8356-4344-b06c-9e1d8b7e917f)
+![273395552-249a679f-7db7-4af8-8c62-d2b67936e711](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/683e5afd-63f2-4df4-a60e-b6574cfc55fa)
 
 ## 29-8-2023 (Knapper)
-I dag blev vi introduceret til Buttons samt ofte forkomne problemer ved brug af dem, som støj der registrer flere clicks end forventet. Vi har så fået connected en knap til vores breadboard så når vi trykker på knappen så lyser dioden ved siden af den og registrer et click i programmet
+Fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
+https://user-images.githubusercontent.com/99390466/273398106-f39c9fa6-59bf-400c-a5b4-4bc93065ff34.mp4
 
 ## 29-08-2023
 Buzzer
