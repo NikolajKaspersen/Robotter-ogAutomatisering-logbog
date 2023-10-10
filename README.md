@@ -28,3 +28,31 @@ I dag er vi startet med et nyt projekt hvor vi har tænkt os at lave en bil som 
 ![269887508-a318266c-124b-441e-af3f-fac806f4c655](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/ec067bcf-3930-45b1-aea0-524224d7ddf7)
 
 Derefter lavede et nyt repository der indeholder koden til vores NodeMCU samt koden til OpenSCAD: https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
+
+## 26-9-2023
+I denne uge har vi arbejdet på at skitsere hvordan formen af vores bil skal se ud, både så det visuelt ser godt, men også så vi kan sikre at alle de nødvendige funktioner er tilstede 
+![273142652-68580c9f-0245-42f8-84a8-164f3ae4488d](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/a66e8fff-9227-40d7-a13c-1086545117c2)
+
+## 03-10-2023
+I dag skiftede vi over til Autodesk Fusion 360 og lavede en simpel box som skal indeholde NodeMCUen samt motoren.
+
+Følgende billede viser modellen i Autodesk Fusion 360: 
+<img width="843" alt="273140680-14f95483-39f1-45f7-a844-15a16cc56191" src="https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/da631e69-e881-4b52-bb8a-08271f6b1a17">
+Her er boxen efter 3D Printning. Vi havde brugt boxen til at måle om vi er på rette vej.
+![273139999-10528d3a-f71d-4495-b023-03647de9f3a6](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/f0f054f2-4c11-48bf-8b1b-d10cea859022)
+
+## 04-10-2023
+Vi har udtænkt en ny form til vores bil hvor hjulene kan side tættere på spidserne, dette sikrer at komponenterne inde i boksen ville sidde bedre fast 
+![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/56e42185-685e-43b2-83e7-ffd37e82f6bc)
+
+## 06-10-2023
+I dag har vi arbejdet på at modelere hjulet af bilen. 
+![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/73db8ca6-24b4-4952-830d-4d95a3553e9a)
+og tegningen af sketchen
+![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/44efcdfd-575c-4a61-9839-bdc2711c5127)
+
+
+
+
+
+
