@@ -15,13 +15,23 @@ Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som 
 
 ## 29-8-2023 (Knapper)
 Fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
+
 https://user-images.githubusercontent.com/99390466/273398106-f39c9fa6-59bf-400c-a5b4-4bc93065ff34.mp4
 
-## 29-08-2023
-Buzzer
+
 
 ## 31-8-2023 (Trafik lys projekt - FINISHED)
 Vi har nu færdiggjort vores trafik lys projekt, nu kører 2 forskellige lyskryds på samme tid. (Hvis videon herunder ikke virker, så kig i Demonstration Videos/TrafficLight Demonstration, videon)
+
+https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/9ffb5cb7-9f0e-42e8-b2f5-e6032a6edf1e
+
+https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/51ad326c-074c-4e62-93b2-494f93d39272
+
+
+
+
+
+
 
 ## 5-9-2023 til 8-9-2023 introduktion til 3D Printing og OpenSCAD
 I denne uge blev vi introduceret kort til principperne bag 3D printing og brug af OpenSCAD/Blender til modelering af objekter som kan 3d printes.
