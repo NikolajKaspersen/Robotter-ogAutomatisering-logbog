@@ -34,7 +34,7 @@ I dag blev vi introduceret kort til principperne bag 3D printing og brug af Open
 
 
 ## 7-9-2023 
-Ved brug af OpenSCAD fik vi til opgave at lave en lille holder til vores NodeMCU. Dette kan ses på følgende billeder:
+Ved brug af JavaCSG fik vi til opgave at lave en lille holder til vores NodeMCU. Dette kan ses på følgende billeder:
 ![267251596-0ead7ef5-2cf8-49ac-a1bc-1bea92d6a363](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/55a3eaf7-b70a-49ad-9797-17f82b06b596)
 
 
