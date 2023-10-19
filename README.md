@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/99390466/273398106-f39c9fa6-59bf-400c-
 
 
 ## 31-8-2023 (Trafik lys projekt - FINISHED)
-Vi har nu færdiggjort vores trafik lys projekt, nu kører 2 forskellige lyskryds på samme tid. (Hvis videon herunder ikke virker, så kig i Demonstration Videos/TrafficLight Demonstration, videon)
+Vi har nu færdiggjort vores trafik lys projekt, nu kører 2 forskellige lyskryds på samme tid. og vi fik lavet vores buzzer som kunne  lave en lyd når man klikkede på knappen
 
 https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/9ffb5cb7-9f0e-42e8-b2f5-e6032a6edf1e
 
