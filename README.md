@@ -59,7 +59,7 @@ Vi blev introduceret til 3D-udskrivning af et clipsystem, som kunne bruges til a
 Vi har arbejdet på at oprette en brugerflade (interface) i OpenSCAD for at forenkle genbrug af tidligere projekter og muliggøre en nem ændring af størrelser.
 
 ## Fredag d. 22 Sep.
-Gruppen enedes om at 3D-udskrive en bil med to motorer, der kunne drive hjulene. Der blev udtænkt forskellige idéer til bilens funktioner og design.
+Gruppen blev enig om at lave en Wi-Fi-styret bil ved at kombinere NodeMCU og en TT-motor. Vi anvendte en ESP12E motor shield brugte 8 AA-batterier som strøm forsyning. Der blev udtænkt forskellige idéer til bilens funktioner og design.
 
 <img src = "https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/ec067bcf-3930-45b1-aea0-524224d7ddf7)" width = "500" hight = "500">
 
