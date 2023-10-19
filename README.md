@@ -58,7 +58,7 @@ Chris var hjemme og lavet hjullet til bilen
 ![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/7ff4cd0a-61e2-4e81-9463-13ccc1804f51)
 
 ## 29-9-2023
-Jeg lavede en boks i javaCSG.
+Jeg lavede en boks i javaCSG, have nogle problemere med javaCSG og brugte det meste af dagen på at lave boksen
 ![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/91b6488a-dbc3-4943-8fb3-1bbe6217fe84)
 
 ## 03-10-2023
