@@ -13,6 +13,7 @@ Vi fik en introduktion til et Trafiklys signal og de states det går igennem, so
 
 ## 29-8-2023 (Knapper)
 Fik uddelt en Button, vi skulle kunne bruges til at registrere et Button-push, der kan registreres af MCU'en til forskellige funktioner.
+Vi arbjede vidre med trafik lys
 
 https://user-images.githubusercontent.com/99390466/273398106-f39c9fa6-59bf-400c-a5b4-4bc93065ff34.mp4
 
