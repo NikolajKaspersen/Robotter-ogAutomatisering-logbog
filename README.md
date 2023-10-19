@@ -9,7 +9,7 @@ Fik en ny MP med to indbygget Dioder, hvor opgaven til næste gang, var at få d
 Fik gennemgået opgaven fra Dag 1, hvor det var muligt at få begge Dioder til at blinke på skift og fik understreget at funktionen 'delay()' ikke skal bruges i fremtiden.
 ![273395411-de14a41b-4608-4867-aae2-3b4bdd9d82aa](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/6608d27e-1647-4152-9bd8-a723e4716245)
 ![273395441-d54939ce-005c-443e-8f60-e0a2e93bed2e](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/80b1bd57-a6b4-4774-997e-70f42fefbcea)
-Fik en introduktion til et Trafiklys signal og de stadier det går igennem, som vi skal arbejde på til næste lektion, og forsøge at kode ind på vores MCU. 
+vi Fik en introduktion til et Trafiklys signal og de states det går igennem, som vi skal arbejde på til næste lektion, og forsøge at kode på vores NodeMCU. 
 ![273395539-4cd46835-9cc6-47fd-b52a-2e8a2eb95633](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/08c0334f-8356-4344-b06c-9e1d8b7e917f)
 ![273395552-249a679f-7db7-4af8-8c62-d2b67936e711](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/683e5afd-63f2-4df4-a60e-b6574cfc55fa)
 
