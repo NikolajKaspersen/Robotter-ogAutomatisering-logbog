@@ -39,7 +39,7 @@ Ved brug af JavaCSG fik vi til opgave at lave en lille holder til vores NodeMCU.
 
 
 ## 12-9-2023 
-Fra nu til eksamen (cirka 4-5 uger) skal vi som klasse lave en hel tog skinne system sammen. Vi vil blive delt ud i vores grupper, hvor hver gruppe skal fokusere på en specific del af systemet.
+Vi skulle som klasse lave en hel tog skinne system sammen. Vi vil blive delt ud i vores grupper, hvor hver gruppe skal fokusere på en specific del af systemet.
 
 ## 15-9-2023
 Vi blev introduceret til 3D print af et Clip-system, der kan bruges til at forbinde brikker af forskellige størrelse og funktioner.
