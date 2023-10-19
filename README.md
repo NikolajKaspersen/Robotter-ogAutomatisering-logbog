@@ -52,7 +52,7 @@ Gruppen blev enige om at lave 3D printe en bil, med 2 motore der kunne få hjule
 ![269887508-a318266c-124b-441e-af3f-fac806f4c655](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/ec067bcf-3930-45b1-aea0-524224d7ddf7)
 
 ## 26-9-2023
-I denne uge har vi arbejdet på at skitsere hvordan skal se ud og de mål som bilen skal have.
+I denne uge har vi arbejdet på at skitsere hvordan bilen skal se ud og de mål som bilen skal have.
 ![273142652-68580c9f-0245-42f8-84a8-164f3ae4488d](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/a66e8fff-9227-40d7-a13c-1086545117c2)
 Chris var hjemme og lavet hjullet til bilen
 ![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/7ff4cd0a-61e2-4e81-9463-13ccc1804f51)
