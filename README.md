@@ -1,9 +1,8 @@
 # Robotter-ogAutomatisering-logbog
 ## 22-8-2023
-Startede ud med introduktion til brug a Visual Studio Code(VSC) når det kommer til at programmere de Micro-Processore(MP) der blev givet i klassen. 
-I VSC bruges platformio, en IDE der giver adgang til den infrastruktur der ligger på MP'en, så dens Pins og Porte kan blive kaldt direkte i Koden. 
-Fik lavet et "MyFirstBlink" program, hvor det var muligt at få den indbyggede diode på MP'en til at blinke i det interval, der er skrevet i Koden.
-Fik en ny MP med to indbygget Dioder, hvor opgaven til næste gang, var at få dem til at blinke på skift og at læse op på C++ klasser.
+Begyndte med en indledning til brugen af Visual Studio Code (VSC) til at programmere de mikroprocessorer (MP), der var blevet udleveret i klassen. I VSC anvendte vi PlatformIO, en integreret udviklingsmiljø, der giver adgang til MP'ens infrastruktur, så vi kunne styre dens pins og porte direkte i koden.
+
+Vi udviklede et program kaldet "MyFirstBlink," som gjorde det muligt at få den indbyggede diode på MP'en til at blinke med det interval, der var defineret i koden. Senere fik vi en ny MP med to indbyggede dioder, og vores næste opgave var at få dem til at blinke på skift samt at undersøge C++-klasser.
 
 ## 25-8-2023
 Fik gennemgået opgaven fra Dag 1, hvor det var muligt at få begge Dioder til at blinke på skift og fik understreget at funktionen 'delay()' ikke skal bruges i fremtiden.
