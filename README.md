@@ -87,8 +87,21 @@ og tegningen af sketchen
 
 
 ## 13-10-2023
+Vi Started dagen ud med at 3d printe et hjul for at se hvordan det ville se ud i virkelighed.
 
+![20231013_100447](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/d88bc40f-8d03-4a5b-8602-4556065d03ab)
 
+derefter printede vi billen for at se, hvordan den ville passe sammen med hjullet og hvis det ikke gjorde rette det til og printe den igen.
+
+![20231013_125032](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/f0867c73-d6fe-4aaa-8a82-51c62d3df92c)
+
+den passed ikke helt så vi rettede den til og begyndte at sætte hjul og motor på.
+
+![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/f535624c-3c69-4998-8200-095387cfef7e)
+
+her er en video af billen hvorden kører
+
+https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/9f80b235-9b2a-4c21-bfbf-764f33eaab42
 
 
 
