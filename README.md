@@ -66,7 +66,7 @@ I dag skiftede vi over til Autodesk Fusion 360 og lavede en simpel box som skal 
 
 Følgende billede viser modellen i Autodesk Fusion 360: 
 <img width="843" alt="273140680-14f95483-39f1-45f7-a844-15a16cc56191" src="https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/da631e69-e881-4b52-bb8a-08271f6b1a17">
-Her er boxen efter 3D Printning. Vi havde brugt boxen til at måle om vi er på rette vej.
+Her er boxen efter 3D Printning. Vi lavet bokse for lille som kan ses på billedet.
 ![273139999-10528d3a-f71d-4495-b023-03647de9f3a6](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/f0f054f2-4c11-48bf-8b1b-d10cea859022)
 Senere udtænkte vi en ny form til vores bil hvor hjulene kan side tættere på spidserne, dette sikrer at komponenterne inde i boksen ville sidde bedre fast 
 ![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/56e42185-685e-43b2-83e7-ffd37e82f6bc)
