@@ -84,6 +84,7 @@ og tegningen af sketchen
 ![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/44efcdfd-575c-4a61-9839-bdc2711c5127)
 
 ## 10-10-2023
+Størrelsen af hjullene blev ændret
 
 
 ## 13-10-2023
