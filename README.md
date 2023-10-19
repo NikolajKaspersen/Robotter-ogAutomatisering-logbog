@@ -135,7 +135,7 @@ den passed ikke helt så vi rettede den til og begyndte at sætte hjul og motor 
 
 ![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/f535624c-3c69-4998-8200-095387cfef7e)
 
-her er en video af billen hvorden kører
+på grund af en dårlig print af hjullene passede de ikke helt arsim sagde at han kunne fikse det der hjemme hvilket han jorde. Her er en video af billen hvorden kører
 
 https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/9f80b235-9b2a-4c21-bfbf-764f33eaab42
 
