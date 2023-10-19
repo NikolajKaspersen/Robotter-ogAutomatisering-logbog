@@ -73,7 +73,7 @@ Senere udtænkte vi en ny form til vores bil hvor hjulene kan side tættere på 
 
 ## 06-10-2023
 I dag har vi arbejdet på at modelere hjulet af bilen. 
-jeg fik lavet en  udkast til hjullet i fusion 360 og Chris arbejdet vidre på deft
+jeg fik lavet en  udkast til hjullet i fusion 360 og Chris arbejdet vidre på det
 
 udkast
 ![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/6f0146cb-393b-4ff7-89ef-3aad0d9cfce5)
