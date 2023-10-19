@@ -84,7 +84,7 @@ og tegningen af sketchen
 ![billede](https://github.com/NikolajKaspersen/Robotter-ogAutomatisering-logbog/assets/99389341/44efcdfd-575c-4a61-9839-bdc2711c5127)
 
 ## 10-10-2023
-Størrelsen af hjullene blev ændret
+På grundet af sygdom blev gruppen hjemme, men gik i små grupper og færdig gjorde på de enkle elementer som ikke var færdige endnu
 
 
 ## 13-10-2023
